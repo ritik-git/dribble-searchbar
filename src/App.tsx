@@ -7,7 +7,7 @@ function App() {
       <div className="w-full max-w-2xl">
         <div className="text-center mb-8">
           <h1 className="text-4xl font-bold text-gray-800 mb-4">
-            Dribbble-Style Search
+            {/* Dribbble-Style Search */}
           </h1>
           <p className="text-gray-600 text-lg">
             A glassmorphic search dropdown with smooth animations
