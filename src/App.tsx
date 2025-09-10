@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import SearchDropdown from './components/SearchDropdown';
 
 function App() {
